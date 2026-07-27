@@ -276,10 +276,29 @@ University of Dhaka
 
 I am open to connecting with software engineers, technology professionals, and teams working on enterprise applications, Angular, Java, Spring Boot, micro-frontends, backend systems, and distributed architectures.
 
-* Portfolio: [raffiul-islam.vercel.app](https://raffiul-islam.vercel.app/)
-* LinkedIn: [rafiul-islam](https://www.linkedin.com/in/rafiul-islam-828b29322)
-* GitHub: [Rafiul-KIT](https://github.com/Rafiul-KIT)
-* Email: [rafiulislam1020@gmail.com](mailto:rafiulislam1020@gmail.com)
+<div align="center">
+
+<a href="https://raffiul-islam.vercel.app/" title="Portfolio">
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="36" height="36" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/rafiul-islam-828b29322" title="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Rafiul-KIT" title="GitHub">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:rafiulislam1020@gmail.com" title="Email">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email" />
+</a>
+
+</div>
+
 
 <div align="center">
 
